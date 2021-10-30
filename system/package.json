@@ -4,8 +4,8 @@
   "description": "It is our node.js password Authentication that help us to build a new future.....",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app.js"
+   
   },
   "keywords": [],
   "author": "",
